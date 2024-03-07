@@ -20,6 +20,7 @@ _Create a GitHub Action and use it in a workflow._
 -->
 
 _I'm mucking it up! ☹️_
+_I'm trying again 🚡 :smile_cat:_
 ## Step 5: Trigger the workflow
 
 _You've now got a fully functioning workflow! :smile:_
