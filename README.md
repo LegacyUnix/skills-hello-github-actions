@@ -17,8 +17,12 @@ _Create a GitHub Action and use it in a workflow._
   <<< Author notes: Finish >>>
   Review what we learned, ask for feedback, provide next steps.
 -->
+_I'm mucking it up! ☹️_
+_I'm trying again 🚡 :smile_cat:_
+
 
 ## Finish
+
 
 _Congratulations friend, you've completed this course!_
 
